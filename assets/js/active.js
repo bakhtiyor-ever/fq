@@ -277,4 +277,3 @@ Author: RRDevs
     loader();
 
 })(jQuery); // End jQuery
-

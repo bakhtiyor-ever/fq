@@ -19,7 +19,7 @@
 
         // Set the recipient email address.
         // Note:  Update this to your desired email address.
-        $recipient = "contactbakhtiyor@gmail.com";
+        $recipient = "rubelmah55@gmail.com";
 
         // Set the email subject.
         $subject = "New Contact $subject";
